@@ -1,0 +1,14 @@
+/* Default link style */
+.nav-link span {
+    color: #ffffff !important;  
+  }
+  
+  .nav-link:hover {
+    color: #ffcc00 !important; 
+  }
+  .nav-link:active {
+    color: #ffcc00 !important; 
+    background-color: rgba(255, 255, 255, 0.1)  !important; 
+    border-left: 4px solid #ffcc00 !important; 
+  }
+  

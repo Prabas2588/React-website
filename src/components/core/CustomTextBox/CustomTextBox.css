@@ -1,0 +1,4 @@
+.remove-input-focus:focus {
+    box-shadow: none !important;
+  }
+  
